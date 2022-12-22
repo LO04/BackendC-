@@ -1,0 +1,11 @@
+D:\BACKEND C#\writeName\writeName\bin\Debug\netcoreapp2.1\writeName.deps.json
+D:\BACKEND C#\writeName\writeName\bin\Debug\netcoreapp2.1\writeName.runtimeconfig.json
+D:\BACKEND C#\writeName\writeName\bin\Debug\netcoreapp2.1\writeName.runtimeconfig.dev.json
+D:\BACKEND C#\writeName\writeName\bin\Debug\netcoreapp2.1\writeName.dll
+D:\BACKEND C#\writeName\writeName\bin\Debug\netcoreapp2.1\writeName.pdb
+D:\BACKEND C#\writeName\writeName\obj\Debug\netcoreapp2.1\writeName.csprojAssemblyReference.cache
+D:\BACKEND C#\writeName\writeName\obj\Debug\netcoreapp2.1\writeName.csproj.CoreCompileInputs.cache
+D:\BACKEND C#\writeName\writeName\obj\Debug\netcoreapp2.1\writeName.AssemblyInfoInputs.cache
+D:\BACKEND C#\writeName\writeName\obj\Debug\netcoreapp2.1\writeName.AssemblyInfo.cs
+D:\BACKEND C#\writeName\writeName\obj\Debug\netcoreapp2.1\writeName.dll
+D:\BACKEND C#\writeName\writeName\obj\Debug\netcoreapp2.1\writeName.pdb
