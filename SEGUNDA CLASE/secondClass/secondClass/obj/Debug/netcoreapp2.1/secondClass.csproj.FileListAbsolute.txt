@@ -1,0 +1,11 @@
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\bin\Debug\netcoreapp2.1\secondClass.deps.json
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\bin\Debug\netcoreapp2.1\secondClass.runtimeconfig.json
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\bin\Debug\netcoreapp2.1\secondClass.runtimeconfig.dev.json
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\bin\Debug\netcoreapp2.1\secondClass.dll
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\bin\Debug\netcoreapp2.1\secondClass.pdb
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\obj\Debug\netcoreapp2.1\secondClass.csprojAssemblyReference.cache
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\obj\Debug\netcoreapp2.1\secondClass.csproj.CoreCompileInputs.cache
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\obj\Debug\netcoreapp2.1\secondClass.AssemblyInfoInputs.cache
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\obj\Debug\netcoreapp2.1\secondClass.AssemblyInfo.cs
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\obj\Debug\netcoreapp2.1\secondClass.dll
+D:\BACKEND C#\SEGUNDA CLASE\secondClass\secondClass\obj\Debug\netcoreapp2.1\secondClass.pdb
