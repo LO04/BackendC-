@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\bin\Debug\netcoreapp2.1\thridClass-Struct.deps.json
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\bin\Debug\netcoreapp2.1\thridClass-Struct.runtimeconfig.json
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\bin\Debug\netcoreapp2.1\thridClass-Struct.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\bin\Debug\netcoreapp2.1\thridClass-Struct.dll
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\bin\Debug\netcoreapp2.1\thridClass-Struct.pdb
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\obj\Debug\netcoreapp2.1\thridClass-Struct.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\obj\Debug\netcoreapp2.1\thridClass-Struct.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\obj\Debug\netcoreapp2.1\thridClass-Struct.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\obj\Debug\netcoreapp2.1\thridClass-Struct.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\obj\Debug\netcoreapp2.1\thridClass-Struct.dll
+C:\Users\Usuario\source\repos\thridClass-Struct\thridClass-Struct\obj\Debug\netcoreapp2.1\thridClass-Struct.pdb
