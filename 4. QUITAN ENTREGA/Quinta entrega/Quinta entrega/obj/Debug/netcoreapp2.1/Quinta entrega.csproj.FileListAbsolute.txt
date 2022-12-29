@@ -1,0 +1,11 @@
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\bin\Debug\netcoreapp2.1\Quinta entrega.deps.json
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\bin\Debug\netcoreapp2.1\Quinta entrega.runtimeconfig.json
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\bin\Debug\netcoreapp2.1\Quinta entrega.runtimeconfig.dev.json
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\bin\Debug\netcoreapp2.1\Quinta entrega.dll
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\bin\Debug\netcoreapp2.1\Quinta entrega.pdb
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\obj\Debug\netcoreapp2.1\Quinta entrega.csprojAssemblyReference.cache
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\obj\Debug\netcoreapp2.1\Quinta entrega.csproj.CoreCompileInputs.cache
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\obj\Debug\netcoreapp2.1\Quinta entrega.AssemblyInfoInputs.cache
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\obj\Debug\netcoreapp2.1\Quinta entrega.AssemblyInfo.cs
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\obj\Debug\netcoreapp2.1\Quinta entrega.dll
+D:\BACKEND C#\4. QUITAN ENTREGA\Quinta entrega\Quinta entrega\obj\Debug\netcoreapp2.1\Quinta entrega.pdb
